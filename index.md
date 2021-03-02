@@ -6,6 +6,7 @@ Estos son mis codigos de la masignatura Algoritmos y Estructuras de Datos
 
 [Por inserción](https://github.com/phob0z/AyED/tree/Insercion)<br>
 [Burbuja](https://github.com/phob0z/AyED/tree/Insercion)<br>
+[Quicksort](https://github.com/phob0z/AyED/tree/Quicksort)<br>
 
 ### Codigos de busqueda en C++
 
