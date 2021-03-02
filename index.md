@@ -4,11 +4,11 @@ Estos son mis codigos de la masignatura Algoritmos y Estructuras de Datos
 
 ### Codigos de ordenamiento en C++
 
-[Por inserción](https://github.com/phob0z/AyED/tree/Insercion)
-[Burbuja](https://github.com/phob0z/AyED/tree/Insercion)
+[Por inserción](https://github.com/phob0z/AyED/tree/Insercion)<br>
+[Burbuja](https://github.com/phob0z/AyED/tree/Insercion)<br>
 
 ### Codigos de busqueda en C++
 
-[Busqueda Lineal](https://github.com/phob0z/AyED/tree/Lineal)
-[Busqueda Binaria](https://github.com/phob0z/AyED/tree/busquedaBinaria)
-[Busqueda por Interpolación](https://github.com/phob0z/AyED/tree/interpolacion)
+[Busqueda Lineal](https://github.com/phob0z/AyED/tree/Lineal)<br>
+[Busqueda Binaria](https://github.com/phob0z/AyED/tree/busquedaBinaria)<br>
+[Busqueda por Interpolación](https://github.com/phob0z/AyED/tree/interpolacion)<br>
